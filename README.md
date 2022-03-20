@@ -129,10 +129,4 @@ If you use this work, please cite:
 
 Telemanom is distributed under [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
 
-Contact: Kyle Hundman (khundman@gmail.com)
-
-# Contributors
-- Kyle Hundman (NASA JPL)
-- [Valentinos Constantinou](https://github.com/vc1492a) (NASA JPL)
-- Chris Laporte (NASA JPL)
-- [Ian Colwell](https://github.com/iancolwell) (NASA JPL)
+Contact: Dheiver Santos (dheiver.santos@gmail.com)
